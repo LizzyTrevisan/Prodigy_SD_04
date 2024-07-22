@@ -1,0 +1,10 @@
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.csproj.AssemblyReference.cache
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.Form1.resources
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.Properties.Resources.resources
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.csproj.GenerateResource.cache
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.csproj.CoreCompileInputs.cache
+C:\Users\leizi\source\repos\Prodigy_SD_04\bin\Debug\Prodigy_SD_04.exe.config
+C:\Users\leizi\source\repos\Prodigy_SD_04\bin\Debug\Prodigy_SD_04.exe
+C:\Users\leizi\source\repos\Prodigy_SD_04\bin\Debug\Prodigy_SD_04.pdb
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.exe
+C:\Users\leizi\source\repos\Prodigy_SD_04\obj\Debug\Prodigy_SD_04.pdb
