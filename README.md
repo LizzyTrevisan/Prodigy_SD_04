@@ -75,7 +75,7 @@ Notes:
 
 ## Screenshots: 
 
-![Screenshot 2024-07-22 131710.png]([https://github.com/LizzyTrevisan/Prodigy_SD_04/commit/d64eddc4d17d36de49f741fb32eea5b2a2f8b93c](https://github.com/LizzyTrevisan/Prodigy_SD_04/blob/main/Screenshot%202024-07-22%20131710.png?raw=true))
+![Screenshot 2024-07-22 131710.png]([[https://github.com/LizzyTrevisan/Prodigy_SD_04/commit/d64eddc4d17d36de49f741fb32eea5b2a2f8b93c](https://github.com/LizzyTrevisan/Prodigy_SD_04/blob/main/Screenshot%202024-07-22%20131710.png?raw=true)](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_04/main/Screenshot%202024-07-22%20131710.png)).
 
 
 
